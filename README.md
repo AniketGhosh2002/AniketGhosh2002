@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AniketGhosh2002
 - 👀 I’m interested in Web Devolopement
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Full Stack
 - 📫 How to reach me aniketghosh255@gmail.com
 
 
